@@ -1,0 +1,15 @@
+# Core data science libraries (your notebook uses these)
+pandas==2.1.4
+numpy==1.26.3
+scikit-learn==1.4.0
+joblib==1.3.2
+
+# Visualization (for EDA in notebook)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Streamlit deployment
+streamlit==1.31.0
+
+# Optional: MLflow tracking (if you used it)
+# mlflow>=2.8.0

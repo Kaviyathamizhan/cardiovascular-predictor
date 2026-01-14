@@ -1,0 +1,72 @@
+{
+  "age_years": {
+    "ks_statistic": 0.00786275911365264,
+    "p_value": 0.7148873797109727,
+    "drifted": false
+  },
+  "height": {
+    "ks_statistic": 0.009292351679771271,
+    "p_value": 0.5050951547671754,
+    "drifted": false
+  },
+  "weight": {
+    "ks_statistic": 0.015291534769733495,
+    "p_value": 0.050751444120061495,
+    "drifted": false
+  },
+  "ap_hi": {
+    "ks_statistic": 0.011513325844991318,
+    "p_value": 0.24824165500860984,
+    "drifted": false
+  },
+  "ap_lo": {
+    "ks_statistic": 0.006407638108853253,
+    "p_value": 0.9024727060685752,
+    "drifted": false
+  },
+  "bmi": {
+    "ks_statistic": 0.018125191463290058,
+    "p_value": 0.011487925751281412,
+    "drifted": false
+  },
+  "smoke": {
+    "ks_statistic": 0.0035739814152966343,
+    "p_value": 0.9999597891731121,
+    "drifted": false
+  },
+  "alco": {
+    "ks_statistic": 0.0031910548350863044,
+    "p_value": 0.999997929423522,
+    "drifted": false
+  },
+  "active": {
+    "ks_statistic": 0.00627999591544981,
+    "p_value": 0.9148646357964418,
+    "drifted": false
+  },
+  "high_ap_hi": {
+    "ks_statistic": 0.010747472684570658,
+    "p_value": 0.3236493915656278,
+    "drifted": false
+  },
+  "high_ap_lo": {
+    "ks_statistic": 0.00306341264168275,
+    "p_value": 0.9999994062613844,
+    "drifted": false
+  },
+  "cholesterol": {
+    "ks_statistic": 0.005258858368222152,
+    "p_value": 0.9811136392227086,
+    "drifted": false
+  },
+  "gluc": {
+    "ks_statistic": 0.004748289594608379,
+    "p_value": 0.99415334323544,
+    "drifted": false
+  },
+  "gender": {
+    "ks_statistic": 0.006765036250382939,
+    "p_value": 0.8634313144164053,
+    "drifted": false
+  }
+}
